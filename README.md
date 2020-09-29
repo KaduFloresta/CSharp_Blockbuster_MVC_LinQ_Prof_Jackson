@@ -2,5 +2,5 @@
 
 # .NET - Blockbuster (Desenvolvido pelo Profº Jackson Machado)
 
-- Consulta LinQ
-- MVC
+- Consulta LinQ.
+- MVC.
