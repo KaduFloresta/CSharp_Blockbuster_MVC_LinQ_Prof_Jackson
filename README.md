@@ -1,4 +1,4 @@
-<h2> Hi,Im Kadu Floresta. <img src="https://github.com/KaduFloresta/KaduFloresta/blob/main/img/Hi.gif?raw=true" width="25"></h2>
+<h2> Hi, Im Kadu Floresta. <img src="https://github.com/KaduFloresta/KaduFloresta/blob/main/img/Hi.gif?raw=true" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/KaduFloresta/KaduFloresta/blob/main/img/gif2.gif?raw=true" width="470";/>
 
 <a href="https://www.linkedin.com/in/kadufloresta/">
